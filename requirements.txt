@@ -1,4 +1,5 @@
 python-telegram-bot==20.7
 pandas
+ta
 tradingview-ta
 requests
